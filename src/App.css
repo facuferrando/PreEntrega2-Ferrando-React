@@ -1,0 +1,9 @@
+img{
+  height: 50px;
+}
+span{
+  color: aquamarine;
+}
+.itemCount span{
+  color: black;
+}
